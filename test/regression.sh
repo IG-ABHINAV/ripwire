@@ -1087,6 +1087,7 @@ for _g in \
     shapingflagcheck \
     shellgateindexcheck \
     shellnestcheck \
+    defectackschemecheck \
     showcasecapturecheck \
     shrinkpaircheck \
     sibliftcheck \

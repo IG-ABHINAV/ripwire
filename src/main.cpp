@@ -6261,6 +6261,7 @@ static int dispatchMainBody( const rw::Config& cfg, char** argv )
         family( "fields", ing.fields );
         family( "aliasTargets", ing.aliasTargets );
         family( "fnLocalScopes", ing.fnLocalScopes );
+        family( "tangleBlocks", ing.tangleBlocks );
         family( "cloneKeys", ing.cloneKeys );
         family( "references", ing.references );
         family( "includes", ing.includes );
